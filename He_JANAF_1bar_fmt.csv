@@ -1,4 +1,4 @@
-T,C_p_std,S_std,opp_G_minus_H_overT,H_to_H_std
+Temp,C_p_std,S_std,opp_G_minus_H_overT,H_to_H_std
 0,0,0,inf,-6.197
 100,20.786,103.445,144.632,-4.119
 200,20.786,117.853,128.053,-2.04
